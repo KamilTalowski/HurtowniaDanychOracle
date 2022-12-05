@@ -1,3 +1,3 @@
 # HurtowniaDanychOracle
 ZBD
-Copied from pdf file have to delete some text in some files
+Copied from Ours pdf file have to delete some text in some files
